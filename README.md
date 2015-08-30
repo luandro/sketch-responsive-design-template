@@ -3,8 +3,8 @@
 Includes:
 
 - [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) icons as grouped symbols.
-- [Bootstrap UI Kit](http://bootstrapuikit.com/) .
-- Most used mobile(_375x667_) and desktop(_1366x768_) resolutions as artboard sizes.
+- [Bootstrap UI Kit](http://bootstrapuikit.com/) _(Todo: add and organize icons and UI elements as symbols)_.
+- Most used ***mobile***(_375x667_) and ***desktop***(_1366x768_) resolutions as artboard sizes.
 
 ##Usage
 
