@@ -1,4 +1,4 @@
-![Sketch Bootstrap Template](http://i.imgur.com/b86Pwj8.png)
+![Sketch Bootstrap Template](https://github.com/luandro/sketch-responsive-design-template/blob/master/logo.png)
 
 ## Includes
 
